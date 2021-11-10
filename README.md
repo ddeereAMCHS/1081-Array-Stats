@@ -8,15 +8,15 @@
   - Calculate the minumum value, the maximum value, the sum of all the values, and the average of the values (rounded to three decimal places)
   - Print out those values
 
-Example Input:
-5
-2
-7
-6
-8
-10
-Example Output:
-2
-10
-33
+Example Input:\
+5\
+2\
+7\
+6\
+8\
+10\
+Example Output:\
+2\
+10\
+33\
 6.600
