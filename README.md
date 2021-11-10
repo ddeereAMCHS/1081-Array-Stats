@@ -1,7 +1,22 @@
-# Template
+# Array Stats
 
-- Create a program called `.java`
-- Prompt the user for 
-- Prompt the user for 
-- Print 
-  - Output `var`
+- Create a program called `Stats.java`
+- Prompt the user for a number
+  - This will be the number of values the user will enter
+- Prompt the user for that many numbers and store them in an array
+- After you have read in all the values:
+  - Calculate the minumum value, the maximum value, the sum of all the values, and the average of the values (rounded to three decimal places)
+  - Print out those values
+
+Example Input:
+5
+2
+7
+6
+8
+10
+Example Output:
+2
+10
+33
+6.600
