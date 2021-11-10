@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "5\r\n2\r\n7\r\n6\r\n8\r\n10",
+      "output": "2\r\n10\r\n33\r\n6.600",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "7\r\n10\r\n10\r\n10\r\n10\r\n10\r\n10\r\n10",
+      "output": "10\r\n10\r\n70\r\n10.000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 3",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "1\r\n19",
+      "output": "19\r\n19\r\n19\r\n19.000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 4",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "5\r\n-7\r\n12\r\n0\r\n-12\r\n19",
+      "output": "-12\r\n19\r\n12\r\n2.400",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
