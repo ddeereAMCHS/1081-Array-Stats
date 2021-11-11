@@ -39,6 +39,26 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "Test 5",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "5\r\n-7\r\n-12\r\n-5\r\n-12\r\n-19",
+      "output": "-19\r\n-5\r\n-55\r\n-11.000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 6",
+      "setup": "javac Stats.java",
+      "run": "java Stats",
+      "input": "5\r\n101\r\n202\r\n303\r\n404\r\n505",
+      "output": "101\r\n505\r\n1515\r\n303.000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
