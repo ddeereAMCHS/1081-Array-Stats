@@ -1,5 +1,7 @@
 # Array Stats
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `Stats.java`
 - Prompt the user for a number
   - This will be the number of values the user will enter
