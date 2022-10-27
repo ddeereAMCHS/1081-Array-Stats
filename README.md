@@ -10,14 +10,14 @@
   - Calculate the minumum value, the maximum value, the sum of all the values, and the average of the values (rounded to three decimal places)
   - Print out those values
 
-Example Input:\
+***Example Input:***\
 5\
 2\
 7\
 6\
 8\
 10\
-Example Output:\
+***Example Output:***\
 2\
 10\
 33\
