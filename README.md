@@ -18,7 +18,7 @@
 8\
 10\
 ***Example Output:***\
-2\
-10\
-33\
-6.600
+Min: 2\
+Max: 10\
+Sum: 33\
+Average: 6.600
