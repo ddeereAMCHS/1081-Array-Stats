@@ -5,7 +5,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "5\r\n2\r\n7\r\n6\r\n8\r\n10",
-      "output": "2\r\n10\r\n33\r\n6.600",
+      "output": "Min: 2\r\nMax: 10\r\nSum: 33\r\nAverage: 6.600",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "7\r\n10\r\n10\r\n10\r\n10\r\n10\r\n10\r\n10",
-      "output": "10\r\n10\r\n70\r\n10.000",
+      "output": "Min: 10\r\nMax: 10\r\nSum: 70\r\nAverage: 10.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "1\r\n19",
-      "output": "19\r\n19\r\n19\r\n19.000",
+      "output": "Min: 19\r\nMax: 19\r\nSum: 19\r\nAverage: 19.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "5\r\n-7\r\n12\r\n0\r\n-12\r\n19",
-      "output": "-12\r\n19\r\n12\r\n2.400",
+      "output": "Min: -12\r\nMax: 19\r\nSum: 12\r\nAverage: 2.400",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -45,7 +45,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "5\r\n-7\r\n-12\r\n-5\r\n-12\r\n-19",
-      "output": "-19\r\n-5\r\n-55\r\n-11.000",
+      "output": "Min: -19\r\nMax: -5\r\nSum: -55\r\nAverage: -11.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -55,7 +55,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "5\r\n101\r\n202\r\n303\r\n404\r\n505",
-      "output": "101\r\n505\r\n1515\r\n303.000",
+      "output": "Min: 101\r\nMax: 505\r\nSum: 1515\r\nAverage: 303.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -65,7 +65,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "1\r\n2147483647",
-      "output": "2147483647\r\n2147483647\r\n2147483647\r\n2147483647.000",
+      "output": "Min: 2147483647\r\nMax: 2147483647\r\nSum: 2147483647\r\nAverage: 2147483647.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -75,7 +75,7 @@
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "1\r\n-2147483648",
-      "output": "-2147483648\r\n-2147483648\r\n-2147483648\r\n-2147483648.000",
+      "output": "Min: -2147483648\r\nMax: -2147483648\r\n-2147483648\r\n-2147483648.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
