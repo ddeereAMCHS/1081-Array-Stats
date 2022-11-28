@@ -71,11 +71,11 @@
       "points": null
     },
     {
-      "name": "Test 7",
+      "name": "Test 8",
       "setup": "javac Stats.java",
       "run": "java Stats",
       "input": "1\r\n-2147483648",
-      "output": "Min: -2147483648\r\nMax: -2147483648\r\n-2147483648\r\n-2147483648.000",
+      "output": "Min: -2147483648\r\nMax: -2147483648\r\nSum: -2147483648\r\nAverage: -2147483648.000",
       "comparison": "included",
       "timeout": 10,
       "points": null
