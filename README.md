@@ -1,6 +1,6 @@
 # Array Stats
 
-## Due: Thur 12/1 at 11:59 PM
+## Due: Thur 11/30 at 11:59 PM
 
 - Create a program called `Stats.java`
 - Prompt the user for a number
