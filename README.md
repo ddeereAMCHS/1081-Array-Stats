@@ -8,7 +8,8 @@
 - Prompt the user for that many numbers and store them in an array
 - After you have read in all the values:
   - Calculate the minumum value, the maximum value, the sum of all the values, and the average of the values (rounded to three decimal places)
-  - Print out those values
+  - Print out those values you calculated
+  - Print out the values you stored in the arrray
 
 ***Example Input:***\
 5\
@@ -21,4 +22,5 @@
 Min: 2\
 Max: 10\
 Sum: 33\
-Average: 6.600
+Average: 6.600\
+2, 7, 6, 8, 10
